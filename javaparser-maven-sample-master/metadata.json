@@ -1,0 +1,17 @@
+{ 
+    "_id" : ObjectId("5d0f9a083eb3be3d0472bca1"), 
+    "metrics" : [
+        {
+            "name" : "NFI", 
+            "value" : "10"
+        }, 
+        {
+            "name" : "AET", 
+            "value" : "40"
+        }, 
+        {
+            "name" : "ST", 
+            "value" : "20"
+        }
+    ]
+}

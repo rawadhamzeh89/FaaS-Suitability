@@ -1,0 +1,61 @@
+{ 
+    "_id" : ObjectId("5d0b721543fd8872eb3cbc76"), 
+    "id" : "1", 
+    "value" : "FaaS DataBase UseCase", 
+    "Operations" : [
+        {
+            "name" : "update", 
+            "text" : "update table"
+        }, 
+        {
+            "name" : "insert", 
+            "text" : "insert into table"
+        }, 
+        {
+            "name" : "delete", 
+            "text" : "delete from "
+        }, 
+        {
+            "name" : "select", 
+            "text" : "select .*.from "
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d0cba203eb3be3d0472bc11"), 
+    "id" : "2", 
+    "value" : "messaging useCase", 
+    "Operations" : [
+        {
+            "name" : "send", 
+            "text" : "send"
+        }, 
+        {
+            "name" : "recieve", 
+            "text" : "recieveMessage"
+        }, 
+        {
+            "name" : "addqueue", 
+            "text" : "addqueue"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5d0e8fff3eb3be3d0472bc88"), 
+    "id" : "3", 
+    "value" : "Auth messaging useCase", 
+    "Operations" : [
+        {
+            "name" : "login", 
+            "text" : "login()"
+        }, 
+        {
+            "name" : "logout", 
+            "text" : "logout()"
+        }, 
+        {
+            "name" : "authorize", 
+            "text" : "authorize()"
+        }
+    ]
+}

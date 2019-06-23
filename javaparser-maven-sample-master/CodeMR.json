@@ -1,0 +1,29 @@
+{ 
+    "_id" : ObjectId("5d0f864f3eb3be3d0472bc9b"), 
+    "metrics" : [
+        {
+            "name" : "CyclomaticComplexity", 
+            "value" : "4"
+        }, 
+        {
+            "name" : "NestedBlockDepth", 
+            "value" : "4"
+        }, 
+        {
+            "name" : "NestedBlockDepth", 
+            "value" : "4"
+        }, 
+        {
+            "name" : "NumberofInnerClasses", 
+            "value" : "4"
+        }, 
+        {
+            "name" : "NumberofReferencedClasses", 
+            "value" : "4"
+        }, 
+        {
+            "name" : "NumberofParameters", 
+            "value" : "0"
+        }
+    ]
+}
